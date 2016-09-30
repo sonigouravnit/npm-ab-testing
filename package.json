@@ -1,6 +1,6 @@
 {
   "name": "npm-ab-testing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "express js module for split ab testing using cookies based on user traffic ",
   "main": "index.js",
   "scripts": {

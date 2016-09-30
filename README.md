@@ -1,9 +1,8 @@
 # npm-ab-testing
 
-npm-ab-testing
 ==========
 
-[![Latest Stable Version]](https://www.npmjs.com/package/npm-ab-testing)
+[Stabe version](https://www.npmjs.com/package/npm-ab-testing)
 
 A/B testing made easy.
 
